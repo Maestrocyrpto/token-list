@@ -3435,6 +3435,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
-    }
+    },
+    {
+      "name": "Tether USD Bridged ZED 20",
+      "symbol": "USDT.z",
+      "address": "0x332Fb8C6839dAAF28a130BA6113384c24c272fC0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Maestrocrypto/assets/main/smartchain/0x332Fb8C6839dAAF28a130BA6113384c24c272fC0/logo.png"
+    },
   ]
 }
