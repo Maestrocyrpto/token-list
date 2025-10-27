@@ -3444,5 +3444,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Maestrocrypto/usdtz-assets/main/smartchain/0x332Fb8C6839dAAF28a130BA6113384c24c272fC0/logo.png"
     },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x34BbFD09CEB9671417bc1041c0a8d0E137010F2a",
+      "chainId": 56,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Maestrocyrpto/tetherusd-metadata/main/0x34BbFD09CEB9671417bc1041c0a8d0E137010F2a/logo.png"
+    }
   ]
 }
